@@ -1,0 +1,31 @@
+body{
+    background: blanchedalmond;
+}
+h3{
+    font-size: 25px;
+    color: blue;
+    text-shadow: 2px 2px 3px black;
+    cursor: pointer;
+    transition: all 0.6s linear;
+}
+h3:hover{
+    color: yellow;
+}
+
+.demo{
+    height: 400px;
+    width: 800px;
+    border: 1px solid black;
+}
+.same{
+    height: 398px;
+    width: 150px;
+    border: 1px solid black;
+    float: right;
+}
+.same1{
+    border: 1px solid black;
+    height: 74px;
+    background-color: rgb(215, 245, 245);
+}
+
